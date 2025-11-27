@@ -1,4 +1,4 @@
-Here you go, **Jarvis-style** — a clean, practical, reusable **ArgoCD Troubleshooting Cheat Sheet** that you can save, share, or drop into any repo/wiki.
+A clean, practical, reusable **ArgoCD Troubleshooting Cheat Sheet** that you can save, share, or drop into any repo/wiki.
 Designed specifically for **real-world GitOps debugging**, including Crossplane, Helm, Kustomize, and SyncWave issues.
 
 ---
